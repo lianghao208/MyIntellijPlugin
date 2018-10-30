@@ -30,7 +30,7 @@
 
   <actions>
     <!-- Add your actions here -->
-    <group id="HelloWorld" text="_HelloWorld">
+    <group id="HelloWorld" text="_HelloWorld">*
       <add-to-group group-id="MainMenu" anchor="last" />
       <action class="com.tbc.hsx.mvpplugin.action.MenuAction" id="helloWorld.menuAction" text="menu action" />
     </group>
